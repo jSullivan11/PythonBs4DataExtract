@@ -1,5 +1,5 @@
 # PythonBs4DataExtract
-Web-scraping demonstration with multiple html files.
+Web-scraping demonstration.
 
 Youtube: 
 
